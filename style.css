@@ -1,0 +1,26 @@
+.red {
+    color: red;
+}
+
+.red {
+    background-color: #AE1C28;
+}
+
+.white {
+    background-color: #FFFFFF;
+}
+
+.blue {
+    background-color: #21468B;
+}
+
+.part {
+    height: 32px;
+    width: 100px;
+}
+
+.red_part {
+    height: 32px;
+    width: 100px;
+    background-color: #214688;
+}
