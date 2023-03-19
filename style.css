@@ -1,17 +1,17 @@
 .red {
     color: red;
-}
-
-.red {
-    background-color: #AE1C28;
+    border: 2px solid blue;
+    width: 75px;
 }
 
 .white {
-    background-color: #FFFFFF;
+    background-color: #FF00FF;
+    width: 75px;
 }
 
 .blue {
     background-color: #21468B;
+    width: 75px;
 }
 
 .part {
@@ -31,17 +31,9 @@
 }
 
 
-.links-list a {
-    .background-color: rgb(179, 57, 81);
-    color: #fff;
-    text-decoration: none;
-    padding: 1em 2em;
-}
-
-
 .box {
     border: 5px solid rebeccapurple;
-    backgrold-color: lightgray;
+    background-color: lightgray;
     padding: 40px;
     margin: 40px;
     width: 300px;
@@ -49,4 +41,10 @@
 }
 .alternate {
     box-sizing: border-box;
+}
+
+
+.my_border {
+    border: 2px solid rebeccapurple;
+    width: 75px;
 }
